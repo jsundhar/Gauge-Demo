@@ -1,0 +1,22 @@
+22:52:04.133 Initializing concepts cache with 1 concepts
+22:52:04.133 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+22:52:04.133 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+22:52:04.133 Found 7 files
+22:52:04.133 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+22:52:04.134 Initializing specs cache with 4 specs
+22:52:04.134 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+22:52:04.134 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+22:52:04.134 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+22:52:04.134 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+22:52:04.135 Found 2 files
+22:52:05.467 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+22:52:05.467 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+22:52:05.471 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+22:52:05.471 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+22:52:05.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+22:52:05.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+22:52:05.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+22:52:05.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+22:52:05.472 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+22:52:05.472 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+22:52:05.514 Initializing steps cache with 14 steps

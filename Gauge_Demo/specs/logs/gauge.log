@@ -1,0 +1,46 @@
+12:24:12.419 Runner connection error: Timed out connecting to [::]:56232
+12:24:12.419 Error while killing runner: os: process already finished
+12:24:12.419 Failed to start gauge API: Timed out connecting to [::]:56232
+13:54:53.837 Runner connection error: Timed out connecting to [::]:57588
+13:54:53.838 Error while killing runner: os: process already finished
+13:54:53.838 Failed to start gauge API: Timed out connecting to [::]:57588
+16:15:06.898 Runner connection error: Timed out connecting to [::]:60759
+16:15:06.899 Error while killing runner: os: process already finished
+16:15:06.899 Failed to start gauge API: Timed out connecting to [::]:60759
+16:18:40.359 Runner connection error: Timed out connecting to [::]:60792
+16:18:40.359 Error while killing runner: os: process already finished
+16:18:40.359 Failed to start gauge API: Timed out connecting to [::]:60792
+00:40:08.428 Runner connection error: Timed out connecting to [::]:61069
+00:40:08.429 Error while killing runner: os: process already finished
+00:40:08.430 Failed to start gauge API: Timed out connecting to [::]:61069
+22:52:13.803 # Simple Parameter
+22:52:13.804 ## Passing the parameter from Scenario
+22:52:13.805 * Navigate to "http://www.waitrose.com"
+22:52:14.811 # Table Parameter
+22:52:14.811 ## Scenario to navigate to a page
+22:52:14.811 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:52:16.529 ## Scenario to take table parameter
+22:52:16.529 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+22:52:16.640 # Special Parameter
+22:52:16.641 ## Scenario to read a file
+22:52:16.641 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:52:17.360 * Check if <file:data/content.txt> is visible
+22:52:17.446 ## Scenario to take value from csv
+22:52:17.447 * Check if link is visible <table:data/data.csv>
+22:52:17.522 # Concept file usage
+22:52:17.523 ## Scenario to use concept
+22:52:17.524 * check all footers
+22:52:17.524 * Navigate to "http://www.waitrose.com"
+22:52:18.534 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:52:19.448 * Check if <file:data/content.txt> is visible
+22:52:19.762 Plugin [Html Report] with pid [936] has exited
+22:52:19.762 Plugin [Xml Report] with pid [937] has exited
+22:52:20.072 Specifications:	4 executed	4 passed	0 failed	0 skipped
+22:52:20.073 Scenarios:	6 executed	6 passed	0 failed	0 skipped
+22:52:20.073 
+Total time taken: 14.129s

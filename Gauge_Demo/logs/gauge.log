@@ -1,0 +1,1229 @@
+00:44:06.408 Runner connection error: Timed out connecting to [::]:61088
+00:44:06.408 Error while killing runner: os: process already finished
+00:44:06.408 Failed to start gauge API: Timed out connecting to [::]:61088
+00:55:27.656 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+00:55:27.820 Plugin [Html Report] with pid [12957] has exited
+00:55:28.130 Specifications:	0 executed	0 passed	0 failed	1 skipped
+00:55:28.130 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+00:55:28.130 
+Total time taken: 1.432s
+00:56:37.782 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+00:56:37.946 Plugin [Html Report] with pid [12992] has exited
+00:56:38.254 Specifications:	0 executed	0 passed	0 failed	1 skipped
+00:56:38.254 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+00:56:38.254 
+Total time taken: 1.4s
+01:02:23.267 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+01:02:23.268 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+01:02:23.441 Plugin [Html Report] with pid [13028] has exited
+01:02:23.747 Specifications:	0 executed	0 passed	0 failed	2 skipped
+01:02:23.747 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:02:23.747 
+Total time taken: 1.528s
+01:03:33.591 Error Message: org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32603,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'BR-LM10004', ip: '192.168.0.5', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.zjx97G}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 48d4619db997ff474df651c7136a3a2e
+01:03:33.591 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:306)
+Driver.initializeDriver(Driver.java:15)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:98)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:84)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:41)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:55)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:26)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+01:03:33.757 Plugin [Html Report] with pid [13061] has exited
+01:03:37.759 Killing runner with PID:13059 forcefully
+01:03:37.759 Specifications:	0 executed	0 passed	0 failed	0 skipped
+01:03:37.759 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:03:37.759 
+Total time taken: 3.007s
+01:03:51.571 Error Message: org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32603,"message":"Cannot navigate to invalid URL"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 6 milliseconds
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'BR-LM10004', ip: '192.168.0.5', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.zNeOGf}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: afcd31ea51ba4e142be2f48fd8362517
+01:03:51.571 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:306)
+Driver.initializeDriver(Driver.java:15)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:98)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:84)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:41)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:55)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:26)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+01:03:51.738 Plugin [Html Report] with pid [13096] has exited
+01:03:53.893 Specifications:	0 executed	0 passed	0 failed	0 skipped
+01:03:53.893 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:03:53.893 
+Total time taken: 2.692s
+01:04:58.362 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+01:04:58.363 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+01:04:58.574 Plugin [Html Report] with pid [13130] has exited
+01:04:58.878 Specifications:	0 executed	0 passed	0 failed	2 skipped
+01:04:58.878 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+01:04:58.878 
+Total time taken: 9.305s
+09:37:24.557 Runner connection error: Timed out connecting to [::]:63122
+09:37:24.558 Error while killing runner: os: process already finished
+09:37:24.558 Failed to start gauge API: Timed out connecting to [::]:63122
+09:37:33.689 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+09:37:33.689 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+09:37:33.904 Plugin [Html Report] with pid [13408] has exited
+09:37:34.212 Specifications:	0 executed	0 passed	0 failed	2 skipped
+09:37:34.212 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+09:37:34.212 
+Total time taken: 3.3s
+10:10:55.845 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+10:10:55.846 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+10:10:56.073 Plugin [Html Report] with pid [13518] has exited
+10:10:56.385 Specifications:	0 executed	0 passed	0 failed	2 skipped
+10:10:56.386 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:10:56.386 
+Total time taken: 3.378s
+10:20:05.988 # Specification Heading
+10:20:05.990 ## Vowel counts in single word
+10:20:05.990 * Navigate to "http://getgauge.io"
+10:20:09.965 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+10:20:10.195 Plugin [Html Report] with pid [13578] has exited
+10:20:10.503 Specifications:	1 executed	1 passed	0 failed	1 skipped
+10:20:10.503 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:20:10.503 
+Total time taken: 7.343s
+14:25:43.727 # Specification Heading
+14:25:43.728 ## Vowel counts in single word
+14:25:43.728 * Navigate to "http://getgauge.io"
+14:25:45.516 No scenarios found in spec: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+14:25:45.756 Plugin [Html Report] with pid [14197] has exited
+14:25:46.065 Specifications:	1 executed	1 passed	0 failed	1 skipped
+14:25:46.065 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14:25:46.065 
+Total time taken: 5.414s
+14:43:40.842 Runner connection error: Timed out connecting to [::]:52417
+14:43:40.843 Error while killing runner: os: process already finished
+14:43:40.843 Failed to start gauge API: Timed out connecting to [::]:52417
+14:45:08.794 Executing in 2 parallel streams.
+14:45:14.314 # Specification Heading
+14:45:14.314 ## Vowel counts in single word
+14:45:14.315 * Navigate to "http://getgauge.io"
+14:45:14.630 # Specification Heading
+14:45:14.631 ## Vowel counts in single word
+14:45:14.631 * Navigate to "http://www.waitrose.com"
+14:45:16.984 Plugin [Html Report] with pid [14302] has exited
+14:45:16.985 Specifications:	2 executed	2 passed	0 failed	0 skipped
+14:45:16.985 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+14:45:16.985 
+Total time taken: 8.088s
+20:35:50.989 Executing in 2 parallel streams.
+20:36:10.240 # Specification Heading
+20:36:10.241 ## Vowel counts in single word
+20:36:10.241 * Navigate to "http://getgauge.io"
+20:36:10.277 # Specification Heading
+20:36:10.278 ## Vowel counts in single word
+20:36:10.279 * Navigate to "http://www.waitrose.com"
+20:36:16.542 Plugin [Html Report] with pid [14922] has exited
+20:36:16.542 Specifications:	2 executed	2 passed	0 failed	0 skipped
+20:36:16.542 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+20:36:16.542 
+Total time taken: 25.452s
+20:45:14.743 Installing Plugin xml-report 0.1.2
+20:45:14.743 Downloading xml-report-0.1.2-darwin.x86_64.zip
+20:45:14.743 Download URL https://github.com/getgauge/xml-report/releases/download/v0.1.2/xml-report-0.1.2-darwin.x86_64.zip
+20:45:23.183 Downloaded to /var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/gauge_temp1455828314743162508/xml-report-0.1.2-darwin.x86_64.zip
+20:45:23.286 Unzipped to => /var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/gauge_temp1455828314743162508
+20:45:23.299 Successfully installed plugin xml-report
+11:22:04.436 Runner connection error: Timed out connecting to [::]:63502
+11:22:04.436 Error while killing runner: os: process already finished
+11:22:04.436 Failed to start gauge API: Timed out connecting to [::]:63502
+11:22:37.755 Runner connection error: Timed out connecting to [::]:63508
+11:22:37.755 Error while killing runner: os: process already finished
+11:22:37.755 Failed to start gauge API: Timed out connecting to [::]:63508
+12:08:02.238 # Table Parameter
+12:08:02.239 ## Scenario to take table parameter
+12:08:02.240 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+12:08:15.520 * check for the following footer links 
+     |Links |
+     |------|
+     |Gauge |
+     |Mingle|
+     |Snap  |
+     |GoCD  |
+     |Rhythm|
+12:08:17.272 Failed Step: check for the following footer links
+12:08:17.272 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Gauge')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm10003.johnlewis.co.uk', ip: '172.24.77.114', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.1Qlv14}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f21fa897374007c1ca79534ae3e4ddaf
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Gauge')]}
+12:08:17.272 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+12:08:17.274 # Specification Heading
+12:08:17.274 ## Vowel counts in single word
+12:08:17.275 * Navigate to "http://getgauge.io"
+12:09:05.318 # Specification Heading
+12:09:05.319 ## Vowel counts in single word
+12:09:05.319 * Navigate to "http://www.waitrose.com"
+12:09:34.694 Plugin [Html Report] with pid [16057] has exited
+12:09:36.548 Specifications:	3 executed	2 passed	1 failed	0 skipped
+12:09:36.548 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+12:09:36.548 
+Total time taken: 1m59.125s
+12:16:37.794 Executing in 3 parallel streams.
+12:16:44.739 # Table Parameter
+12:16:44.741 ## Scenario to take table parameter
+12:16:44.741 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+12:16:45.235 # Specification Heading
+12:16:45.236 ## Vowel counts in single word
+12:16:45.237 * Navigate to "http://getgauge.io"
+12:16:46.061 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+     |fail |
+12:16:46.468 # Specification Heading
+12:16:46.469 ## Vowel counts in single word
+12:16:46.470 * Navigate to "http://www.waitrose.com"
+12:16:48.374 Failed Step: check for the following footer links
+12:16:48.374 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 153 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm10003.johnlewis.co.uk', ip: '172.24.77.114', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.pBYDow}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 22d2edca27ea2be707ac73d577c78489
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+12:16:48.374 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+12:16:50.547 Plugin [Html Report] with pid [16109] has exited
+12:16:50.547 Specifications:	3 executed	2 passed	1 failed	0 skipped
+12:16:50.547 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+12:16:50.547 
+Total time taken: 12.648s
+12:26:41.711 Executing in 3 parallel streams.
+12:26:49.200 # Table Parameter
+12:26:49.201 ## Scenario to take table parameter
+12:26:49.202 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+12:26:49.445 # Specification Heading
+12:26:49.446 ## Vowel counts in single word
+12:26:49.446 * Navigate to "http://getgauge.io"
+12:26:49.613 # Specification Heading
+12:26:49.614 ## Vowel counts in single word
+12:26:49.615 * Navigate to "http://www.waitrose.com"
+12:26:50.517 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+     |bag  |
+12:26:53.000 Failed Step: check for the following footer links
+12:26:53.001 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 180 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm10003.johnlewis.co.uk', ip: '172.24.77.114', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.2iv775}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba6d5325ec8f657ffc328808b0208a1b
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+12:26:53.001 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+12:26:55.163 Plugin [Html Report] with pid [16195] has exited
+12:26:55.164 Specifications:	3 executed	2 passed	1 failed	0 skipped
+12:26:55.164 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+12:26:55.164 
+Total time taken: 13.349s
+12:28:57.562 Executing in 3 parallel streams.
+12:29:04.769 # Table Parameter
+12:29:04.769 ## Scenario to take table parameter
+12:29:04.770 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+12:29:04.785 # Specification Heading
+12:29:04.786 ## Vowel counts in single word
+12:29:04.786 * Navigate to "http://getgauge.io"
+12:29:05.211 # Specification Heading
+12:29:05.212 ## Vowel counts in single word
+12:29:05.212 * Navigate to "http://www.waitrose.com"
+12:29:06.969 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+12:29:08.424 Failed Step: check for the following footer links
+12:29:08.424 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 36 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm10003.johnlewis.co.uk', ip: '172.24.77.114', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.RIQZww}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c90a1259f3e33b88235b6e2c77fc859a
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+12:29:08.424 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+12:29:10.597 Plugin [Html Report] with pid [16265] has exited
+12:29:10.597 Specifications:	3 executed	2 passed	1 failed	0 skipped
+12:29:10.597 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+12:29:10.597 
+Total time taken: 12.929s
+13:26:58.335 Runner connection error: Timed out connecting to [::]:51654
+13:26:58.335 Error while killing runner: os: process already finished
+13:26:58.336 Failed to start gauge API: Timed out connecting to [::]:51654
+13:31:30.482 Runner connection error: Timed out connecting to [::]:53217
+13:31:30.482 Error while killing runner: os: process already finished
+13:31:30.482 Failed to start gauge API: Timed out connecting to [::]:53217
+13:32:35.009 Executing in 3 parallel streams.
+13:32:41.908 # Table Parameter
+13:32:41.909 ## Scenario to take table parameter
+13:32:41.910 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:32:42.745 # Specification Heading
+13:32:42.747 ## Vowel counts in single word
+13:32:42.747 * Navigate to "http://getgauge.io"
+13:32:42.794 # Specification Heading
+13:32:42.796 ## Vowel counts in single word
+13:32:42.796 * Navigate to "http://www.waitrose.com"
+13:32:43.150 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+13:32:45.776 Failed Step: check for the following footer links
+13:32:45.776 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 501 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.aXQvE8}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e4900ed0dea7af62bbcbc4ab00163492
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:32:45.776 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:32:47.943 Plugin [Html Report] with pid [16398] has exited
+13:32:47.943 Specifications:	3 executed	2 passed	1 failed	0 skipped
+13:32:47.943 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+13:32:47.943 
+Total time taken: 12.83s
+13:37:38.221 Executing in 2 parallel streams.
+13:37:43.771 # Simple Parameter
+13:37:43.772 ## Passing the parameter from Scenario
+13:37:43.772 * Navigate to "http://www.waitrose.com"
+13:37:44.164 # Table Parameter
+13:37:44.166 ## Scenario to take table parameter
+13:37:44.166 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:37:44.915 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+13:37:46.332 Failed Step: check for the following footer links
+13:37:46.332 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.JLPiwi}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6ee9261a3d39d1e4374b32d1dabec556
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:37:46.333 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:37:48.492 Plugin [Html Report] with pid [16480] has exited
+13:37:48.492 Specifications:	2 executed	1 passed	1 failed	0 skipped
+13:37:48.492 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+13:37:48.492 
+Total time taken: 10.167s
+13:39:15.622 Executing in 2 parallel streams.
+13:39:21.407 # Simple Parameter
+13:39:21.407 ## Passing the parameter from Scenario
+13:39:21.408 * Navigate to "http://www.waitrose.com"
+13:39:21.633 # Table Parameter
+13:39:21.634 ## Scenario to take the page
+13:39:21.635 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:39:22.411 ## Scenario to take table parameter
+13:39:22.412 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+13:39:23.744 Failed Step: check for the following footer links
+13:39:23.744 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.8WUgyP}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2e1bd1f63f470f014bada9bfb3304c5a
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:39:23.744 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:39:25.909 Plugin [Html Report] with pid [16531] has exited
+13:39:25.910 Specifications:	2 executed	1 passed	1 failed	0 skipped
+13:39:25.910 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+13:39:25.910 
+Total time taken: 10.183s
+13:45:42.300 Executing in 2 parallel streams.
+13:45:48.730 # Simple Parameter
+13:45:48.731 ## Passing the parameter from Scenario
+13:45:48.732 * Navigate to "http://www.waitrose.com"
+13:45:49.446 # Table Parameter
+13:45:49.446 ## Scenario to take the page
+13:45:49.446 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:45:50.094 ## Scenario to take table parameter
+13:45:50.094 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+13:45:52.945 Failed Step: check for the following footer links
+13:45:52.945 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 70 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.PlDaKu}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 50fb93cbbeec61c43aaf431e96cd5588
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:45:52.945 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:41)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:45:56.052 Plugin [Html Report] with pid [16600] has exited
+13:45:56.053 Specifications:	2 executed	1 passed	1 failed	0 skipped
+13:45:56.053 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+13:45:56.053 
+Total time taken: 13.643s
+13:49:58.417 Executing in 2 parallel streams.
+13:50:06.156 # Simple Parameter
+13:50:06.158 ## Passing the parameter from Scenario
+13:50:06.158 * Navigate to "http://www.waitrose.com"
+13:50:06.197 # Table Parameter
+13:50:06.198 ## Scenario to take the page
+13:50:06.199 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:50:07.433 ## Scenario to take table parameter
+13:50:07.434 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+13:50:13.990 Failed Step: check for the following footer links
+13:50:13.990 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.pbT9em}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1c00d5aa2cbcf58f5e28c7e4c64dd0fe
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:50:13.990 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:47)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:50:18.109 Killing runner with PID:16664 forcefully
+13:50:18.210 Plugin [Html Report] with pid [16663] has exited
+13:50:18.210 Specifications:	2 executed	1 passed	1 failed	0 skipped
+13:50:18.210 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+13:50:18.210 
+Total time taken: 19.691s
+13:51:00.541 Executing in 2 parallel streams.
+13:51:06.340 # Simple Parameter
+13:51:06.341 ## Passing the parameter from Scenario
+13:51:06.341 * Navigate to "http://www.waitrose.com"
+13:51:06.553 # Table Parameter
+13:51:06.555 ## Scenario to take the page
+13:51:06.555 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:51:07.832 ## Scenario to take table parameter
+13:51:07.832 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+13:51:14.748 Failed Step: check for the following footer links
+13:51:14.748 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.jvaRUI}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b566af91e8e5f756233c50e447c3b19
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:51:14.748 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:47)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:51:16.914 Plugin [Html Report] with pid [16714] has exited
+13:51:16.914 Specifications:	2 executed	1 passed	1 failed	0 skipped
+13:51:16.914 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+13:51:16.914 
+Total time taken: 16.269s
+13:53:04.329 Executing in 2 parallel streams.
+13:53:10.694 # Simple Parameter
+13:53:10.695 ## Passing the parameter from Scenario
+13:53:10.696 * Navigate to "http://www.waitrose.com"
+13:53:11.451 # Table Parameter
+13:53:11.453 ## Scenario to take the page
+13:53:11.454 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:53:12.131 ## Scenario to take table parameter
+13:53:12.132 * check for the following footer links 
+     |Links|
+     |-----|
+     |Help |
+     |Welsh|
+     |Media|
+13:53:18.593 Failed Step: check for the following footer links
+13:53:18.593 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Welsh')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.47.1', revision: 'unknown', time: '2015-07-30 11:02:44'
+System info: host: 'br-lm55711.johnlewis.co.uk', ip: '172.24.103.147', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.chCIEw}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 22149d543f0ffc1b848b9c70755305ae
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Welsh')]}
+13:53:18.593 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:348)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
+org.openqa.selenium.By$ByXPath.findElement(By.java:358)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:340)
+Mainclass.verifyFooterLinks(Mainclass.java:47)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+13:53:20.753 Plugin [Html Report] with pid [16765] has exited
+13:53:20.754 Specifications:	2 executed	1 passed	1 failed	0 skipped
+13:53:20.754 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+13:53:20.754 
+Total time taken: 16.321s
+13:55:30.965 Executing in 2 parallel streams.
+13:55:36.758 # Simple Parameter
+13:55:36.759 ## Passing the parameter from Scenario
+13:55:36.759 * Navigate to "http://www.waitrose.com"
+13:55:37.474 # Table Parameter
+13:55:37.474 ## Scenario to take the page
+13:55:37.475 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:55:38.625 ## Scenario to take table parameter
+13:55:38.626 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+13:55:46.990 Plugin [Html Report] with pid [16818] has exited
+13:55:46.990 Specifications:	2 executed	2 passed	0 failed	0 skipped
+13:55:46.990 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+13:55:46.990 
+Total time taken: 15.92s
+13:56:27.478 Executing in 2 parallel streams.
+13:56:32.873 # Simple Parameter
+13:56:32.875 ## Passing the parameter from Scenario
+13:56:32.876 * Navigate to "http://www.waitrose.com"
+13:56:33.648 # Table Parameter
+13:56:33.649 ## Scenario to take the page
+13:56:33.649 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+13:56:34.398 ## Scenario to take table parameter
+13:56:34.399 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+13:56:35.232 Plugin [Html Report] with pid [16870] has exited
+13:56:35.232 Specifications:	2 executed	2 passed	0 failed	0 skipped
+13:56:35.232 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+13:56:35.232 
+Total time taken: 7.652s
+15:00:09.583 Runner connection error: Timed out connecting to [::]:58467
+15:00:09.584 Error while killing runner: os: process already finished
+15:00:09.584 Failed to start gauge API: Timed out connecting to [::]:58467
+15:01:36.514 # Simple Parameter
+15:01:36.515 ## Passing the parameter from Scenario
+15:01:36.515 * Navigate to "http://www.waitrose.com"
+15:01:37.421 Plugin [Html Report] with pid [16983] has exited
+15:01:37.730 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:01:37.731 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:01:37.731 
+Total time taken: 5.241s
+15:25:01.454 # Special Parameter
+15:25:01.455 ## Scenario to read a file
+15:25:01.455 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+15:25:02.093 * Check if <file:content.txt> is visible
+15:25:02.095 ## Scenario to take table parameter
+15:25:02.095 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+15:25:02.402 Plugin [Html Report] with pid [17024] has exited
+15:25:02.709 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:25:02.709 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:25:02.709 
+Total time taken: 4.073s
+15:58:30.592 # Special Parameter
+15:58:30.593 ## Scenario to read a file
+15:58:30.593 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+15:58:31.713 * Check if <file:content.txt> is visible
+15:58:31.802 ## Scenario to take table parameter
+15:58:31.802 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+15:58:32.106 Plugin [Html Report] with pid [17082] has exited
+15:58:32.414 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:58:32.414 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:58:32.414 
+Total time taken: 4.996s
+16:13:09.653 [ParseError] /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec : line no: 8, Dynamic parameter <file:/data/content.txt> could not be resolved
+16:14:36.304 [ParseError] /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec : line no: 8, Dynamic parameter <file:/data/content.txt> could not be resolved
+16:14:57.022 [ParseError] /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec : line no: 8, Dynamic parameter <file:datacontent.txt> could not be resolved
+16:16:11.697 [ParseError] /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec : line no: 8, Dynamic parameter <file:/data/content.txt> could not be resolved
+16:16:28.765 # Special Parameter
+16:16:28.766 ## Scenario to read a file
+16:16:28.767 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+16:16:29.445 * Check if <file:data/content.txt> is visible
+16:16:29.476 ## Scenario to take table parameter
+16:16:29.477 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+16:16:29.827 Plugin [Html Report] with pid [17148] has exited
+16:16:30.132 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:16:30.132 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+16:16:30.132 
+Total time taken: 4.03s
+16:38:44.045 # Special Parameter
+16:38:44.046 ## Scenario to read a file
+16:38:44.047 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+16:38:45.228 * Check if <file:data/content.txt> is visible
+16:38:45.260 ## Scenario to take value from csv
+16:38:45.260 * Check if link is visible <table:data/data.csv>
+16:38:46.716 Failed Step: Check if link is visible <table:data/data.csv>
+16:38:46.716 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'Social')]"}
+  (Session info: chrome=48.0.2564.109)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'br-lm10003.johnlewis.co.uk', ip: '172.24.77.114', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.vQybTF}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.109, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 0c9f29243f43a02adbe95ad1259bba31
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'Social')]}
+16:38:46.716 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+Mainclass.checkLinkContent(Mainclass.java:69)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+16:38:46.933 Plugin [Html Report] with pid [17218] has exited
+16:38:50.011 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:38:50.011 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:38:50.011 
+Total time taken: 6.202s
+16:41:47.123 # Special Parameter
+16:41:47.124 ## Scenario to read a file
+16:41:47.124 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+16:41:47.762 * Check if <file:data/content.txt> is visible
+16:41:47.816 ## Scenario to take value from csv
+16:41:47.816 * Check if link is visible <table:data/data.csv>
+16:41:48.109 Plugin [Html Report] with pid [17256] has exited
+16:41:48.417 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:41:48.417 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+16:41:48.417 
+Total time taken: 4.2s
+16:42:47.169 Executing in 3 parallel streams.
+16:42:55.673 # Simple Parameter
+16:42:55.674 ## Passing the parameter from Scenario
+16:42:55.675 * Navigate to "http://www.waitrose.com"
+16:42:55.853 # Table Parameter
+16:42:55.854 ## Scenario to navigate to a page
+16:42:55.855 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+16:42:56.069 # Special Parameter
+16:42:56.071 ## Scenario to read a file
+16:42:56.071 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+16:42:57.234 ## Scenario to take table parameter
+16:42:57.235 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+16:42:57.248 * Check if <file:data/content.txt> is visible
+16:42:57.395 ## Scenario to take value from csv
+16:42:57.396 * Check if link is visible <table:data/data.csv>
+16:42:58.678 Plugin [Html Report] with pid [17286] has exited
+16:42:58.678 Specifications:	3 executed	3 passed	0 failed	0 skipped
+16:42:58.678 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+16:42:58.678 
+Total time taken: 11.405s
+09:29:57.312 # Special Parameter
+09:29:57.314 ## Scenario to read a file
+09:29:57.314 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+09:29:58.855 * Check if <file:data/content.txt> is visible
+09:29:58.889 ## Scenario to take value from csv
+09:29:58.890 * Check if link is visible <table:data/data.csv>
+09:29:59.192 Plugin [Html Report] with pid [6902] has exited
+09:29:59.506 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:29:59.506 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+09:29:59.506 
+Total time taken: 9.417s
+18:33:23.878 Plugin xml-report was successfully added to the project
+18:34:48.544 Executing in 3 parallel streams.
+18:35:13.043 # Simple Parameter
+18:35:13.043 ## Passing the parameter from Scenario
+18:35:13.044 * Navigate to "http://www.waitrose.com"
+18:35:13.465 # Table Parameter
+18:35:13.466 ## Scenario to navigate to a page
+18:35:13.467 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+18:35:14.972 # Special Parameter
+18:35:14.973 ## Scenario to read a file
+18:35:14.974 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+18:35:18.959 ## Scenario to take table parameter
+18:35:18.960 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+18:35:20.223 * Check if <file:data/content.txt> is visible
+18:35:20.258 ## Scenario to take value from csv
+18:35:20.258 * Check if link is visible <table:data/data.csv>
+18:35:20.984 Plugin [Html Report] with pid [666] has exited
+18:35:20.984 Plugin [Xml Report] with pid [667] has exited
+18:35:20.984 Specifications:	3 executed	3 passed	0 failed	0 skipped
+18:35:20.984 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+18:35:20.984 
+Total time taken: 32.333s
+19:26:00.260 # Simple Parameter
+19:26:00.261 ## Passing the parameter from Scenario
+19:26:00.262 * Navigate to "http://www.waitrose.com"
+19:26:01.429 Plugin [Html Report] with pid [831] has exited
+19:26:01.429 Plugin [Xml Report] with pid [832] has exited
+19:26:01.736 Specifications:	1 executed	1 passed	0 failed	0 skipped
+19:26:01.736 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19:26:01.736 
+Total time taken: 8.94s
+19:27:49.395 # Simple Parameter
+19:27:49.395 ## Passing the parameter from Scenario
+19:27:49.396 * Navigate to "http://www.waitrose.com"
+19:27:50.430 # Table Parameter
+19:27:50.430 ## Scenario to navigate to a page
+19:27:50.431 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+19:27:52.161 ## Scenario to take table parameter
+19:27:52.161 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+19:27:52.269 # Special Parameter
+19:27:52.269 ## Scenario to read a file
+19:27:52.270 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+19:27:52.890 * Check if <file:data/content.txt> is visible
+19:27:52.949 ## Scenario to take value from csv
+19:27:52.949 * Check if link is visible <table:data/data.csv>
+19:27:53.268 Plugin [Html Report] with pid [853] has exited
+19:27:53.268 Plugin [Xml Report] with pid [854] has exited
+19:27:53.580 Specifications:	3 executed	3 passed	0 failed	0 skipped
+19:27:53.580 Scenarios:	5 executed	5 passed	0 failed	0 skipped
+19:27:53.580 
+Total time taken: 12.549s
+20:56:05.536 # Concept file usage
+20:56:05.538 ## Scenario to use concept
+20:56:05.538 * check all footers
+20:56:05.538 * Navigate to "http://www.waitrose.com"
+20:56:06.515 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+20:56:08.158 * Check if <file:data/content.txt> is visible
+20:56:08.405 Plugin [Html Report] with pid [613] has exited
+20:56:08.405 Plugin [Xml Report] with pid [614] has exited
+20:56:08.711 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:56:08.711 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:56:08.711 
+Total time taken: 11.255s
+20:58:37.150 # Concept file usage
+20:58:37.152 ## Scenario to use concept
+20:58:37.152 * check all footers
+20:58:37.152 * Navigate to "http://www.waitrose.com"
+20:58:38.273 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+20:58:40.495 * Check if <file:data/content.txt> is visible
+20:58:40.806 Plugin [Html Report] with pid [632] has exited
+20:58:40.806 Plugin [Xml Report] with pid [633] has exited
+20:58:41.108 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:58:41.108 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:58:41.108 
+Total time taken: 11.344s
+22:44:23.467 # Simple Parameter
+22:44:23.468 ## Passing the parameter from Scenario
+22:44:23.469 * Navigate to "http://www.waitrose.com"
+22:44:24.632 # Table Parameter
+22:44:24.633 ## Scenario to navigate to a page
+22:44:24.633 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:44:27.152 ## Scenario to take table parameter
+22:44:27.153 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+22:44:27.235 # Special Parameter
+22:44:27.236 ## Scenario to read a file
+22:44:27.236 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:44:28.043 * Check if <file:data/content.txt> is visible
+22:44:28.106 ## Scenario to take value from csv
+22:44:28.107 * Check if link is visible <table:data/data.csv>
+22:44:28.211 # Concept file usage
+22:44:28.212 ## Scenario to use concept
+22:44:28.212 * check all footers
+22:44:28.212 * Navigate to "http://www.waitrose.com"
+22:44:29.591 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:44:30.911 * Check if <file:data/content.txt> is visible
+22:44:31.207 Plugin [Html Report] with pid [871] has exited
+22:44:31.207 Plugin [Xml Report] with pid [872] has exited
+22:44:31.513 Specifications:	4 executed	4 passed	0 failed	0 skipped
+22:44:31.513 Scenarios:	6 executed	6 passed	0 failed	0 skipped
+22:44:31.514 
+Total time taken: 18.402s
+22:46:56.189 # Simple Parameter
+22:46:56.190 ## Passing the parameter from Scenario
+22:46:56.190 * Navigate to "http://www.waitrose.com"
+22:46:57.307 # Table Parameter
+22:46:57.307 ## Scenario to navigate to a page
+22:46:57.308 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:46:59.625 ## Scenario to take table parameter
+22:46:59.625 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+22:46:59.715 # Special Parameter
+22:46:59.716 ## Scenario to read a file
+22:46:59.716 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:47:00.381 * Check if <file:data/content.txt> is visible
+22:47:00.459 ## Scenario to take value from csv
+22:47:00.459 * Check if link is visible <table:data/data.csv>
+22:47:00.558 # Concept file usage
+22:47:00.558 ## Scenario to use concept
+22:47:00.558 * check all footers
+22:47:00.558 * Navigate to "http://www.waitrose.com"
+22:47:01.536 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+22:47:02.378 * Check if <file:data/content.txt> is visible
+22:47:02.663 Plugin [Html Report] with pid [908] has exited
+22:47:02.663 Plugin [Xml Report] with pid [909] has exited
+22:47:02.967 Specifications:	4 executed	4 passed	0 failed	0 skipped
+22:47:02.967 Scenarios:	6 executed	6 passed	0 failed	0 skipped
+22:47:02.967 
+Total time taken: 17.875s
+23:29:41.748 # Table Parameter
+23:29:41.750 ## Scenario to navigate to a page
+23:29:41.751 * Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+23:29:43.627 ## Scenario to take table parameter
+23:29:43.627 * check for the following footer links 
+     |Links |
+     |------|
+     |Help  |
+     |social|
+     |Media |
+23:29:43.720 ##  Scenario to see failure
+23:29:43.721 * check for the following footer links 
+     |Links|
+     |-----|
+     |fail |
+23:29:45.673 Failed Step: check for the following footer links
+23:29:45.673 Error Message: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='footer-column']//a[contains(text(),'fail')]"}
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.10.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593c', time: '2016-02-11 19:03:33'
+System info: host: 'BR-LM10004', ip: '192.168.0.5', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.10.3', java.version: '1.8.0_72'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={chromedriverVersion=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4), userDataDir=/var/folders/4n/k2t7klys2_x600bjs11f3rtckp8b8y/T/.org.chromium.Chromium.QN5M2O}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=48.0.2564.116, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 243f54f1378a96bd7a47c195cec6f879
+*** Element info: {Using=xpath, value=//div[@class='footer-column']//a[contains(text(),'fail')]}
+23:29:45.673 Stacktrace: 
+sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+Mainclass.verifyFooterLinks(Mainclass.java:40)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:94)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:77)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+23:29:45.888 Plugin [Xml Report] with pid [1050] has exited
+23:29:45.888 Plugin [Html Report] with pid [1049] has exited
+23:29:48.573 Specifications:	1 executed	0 passed	1 failed	0 skipped
+23:29:48.573 Scenarios:	3 executed	2 passed	1 failed	0 skipped
+23:29:48.573 
+Total time taken: 11.968s

@@ -1,0 +1,5 @@
+# check all footers
+
+* Navigate to "http://www.waitrose.com"
+* Navigate to "http://www.waitrose.com/content/waitrose/en/bf_home/bf.html"
+* Check if <file:data/content.txt> is visible

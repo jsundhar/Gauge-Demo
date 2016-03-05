@@ -1,0 +1,1051 @@
+00:55:25.089 Initializing concepts cache with 0 concepts
+00:55:25.090 Initializing specs cache with 1 specs
+00:55:25.090 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+00:55:25.092 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+00:55:25.092 Found 3 files
+00:55:25.092 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+00:55:25.092 Found 1 files
+00:55:26.193 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hello world" hasInlineTable:false > 
+00:55:26.193 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hello world" parameterizedStepValue:"Hello world" > > 
+00:55:26.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+00:55:26.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+00:55:26.197 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+00:55:26.197 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+00:55:26.236 Initializing steps cache with 3 steps
+00:56:35.331 Initializing concepts cache with 0 concepts
+00:56:35.331 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+00:56:35.331 Found 3 files
+00:56:35.331 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+00:56:35.332 Found 1 files
+00:56:35.332 Initializing specs cache with 1 specs
+00:56:35.332 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+00:56:36.390 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Hello world" hasInlineTable:false > 
+00:56:36.390 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Hello world" parameterizedStepValue:"Hello world" > > 
+00:56:36.393 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+00:56:36.393 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+00:56:36.394 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+00:56:36.394 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+00:56:36.433 Initializing steps cache with 3 steps
+01:02:20.399 Initializing concepts cache with 0 concepts
+01:02:20.400 Initializing specs cache with 2 specs
+01:02:20.400 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+01:02:20.400 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+01:02:20.402 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+01:02:20.402 Found 4 files
+01:02:20.402 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+01:02:20.402 Found 1 files
+01:02:21.716 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+01:02:21.716 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+01:02:21.721 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+01:02:21.721 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+01:02:21.721 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+01:02:21.722 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01:02:21.769 Initializing steps cache with 3 steps
+01:03:29.262 Initializing concepts cache with 0 concepts
+01:03:29.262 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+01:03:29.262 Found 4 files
+01:03:29.262 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+01:03:29.262 Found 1 files
+01:03:29.263 Initializing specs cache with 2 specs
+01:03:29.263 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+01:03:29.263 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+01:03:30.590 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+01:03:30.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+01:03:30.594 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+01:03:30.595 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+01:03:30.595 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+01:03:30.595 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01:03:30.637 Initializing steps cache with 3 steps
+01:03:47.619 Initializing concepts cache with 0 concepts
+01:03:47.620 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+01:03:47.620 Found 4 files
+01:03:47.620 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+01:03:47.620 Found 1 files
+01:03:47.620 Initializing specs cache with 2 specs
+01:03:47.620 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+01:03:47.620 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+01:03:48.881 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+01:03:48.881 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+01:03:48.886 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+01:03:48.886 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+01:03:48.887 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+01:03:48.887 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01:03:48.933 Initializing steps cache with 3 steps
+01:04:47.853 Initializing concepts cache with 0 concepts
+01:04:47.853 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+01:04:47.854 Found 4 files
+01:04:47.854 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+01:04:47.854 Found 1 files
+01:04:47.854 Initializing specs cache with 2 specs
+01:04:47.854 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+01:04:47.854 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+01:04:49.108 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+01:04:49.108 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+01:04:49.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+01:04:49.114 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+01:04:49.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+01:04:49.114 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+01:04:49.157 Initializing steps cache with 3 steps
+09:37:29.152 Initializing concepts cache with 0 concepts
+09:37:29.152 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+09:37:29.153 Found 4 files
+09:37:29.153 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+09:37:29.153 Found 1 files
+09:37:29.153 Initializing specs cache with 2 specs
+09:37:29.153 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+09:37:29.153 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+09:37:30.404 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+09:37:30.404 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+09:37:30.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+09:37:30.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+09:37:30.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+09:37:30.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+09:37:30.453 Initializing steps cache with 3 steps
+10:10:51.122 Initializing concepts cache with 0 concepts
+10:10:51.122 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+10:10:51.122 Found 4 files
+10:10:51.122 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+10:10:51.122 Found 1 files
+10:10:51.123 Initializing specs cache with 2 specs
+10:10:51.123 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+10:10:51.123 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+10:10:52.496 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+10:10:52.496 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+10:10:52.500 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+10:10:52.500 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+10:10:52.500 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+10:10:52.500 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+10:10:52.542 Initializing steps cache with 3 steps
+10:20:01.554 Initializing concepts cache with 0 concepts
+10:20:01.555 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+10:20:01.555 Found 4 files
+10:20:01.555 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+10:20:01.555 Found 1 files
+10:20:01.555 Initializing specs cache with 2 specs
+10:20:01.555 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+10:20:01.555 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+10:20:02.694 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+10:20:02.694 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+10:20:02.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+10:20:02.697 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+10:20:02.697 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+10:20:02.697 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+10:20:02.738 Initializing steps cache with 4 steps
+14:25:38.920 Initializing concepts cache with 0 concepts
+14:25:38.921 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+14:25:38.922 Found 4 files
+14:25:38.922 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+14:25:38.922 Found 1 files
+14:25:38.922 Initializing specs cache with 2 specs
+14:25:38.922 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+14:25:38.922 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/test.spec
+14:25:40.142 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+14:25:40.142 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+14:25:40.147 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+14:25:40.147 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+14:25:40.147 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+14:25:40.148 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+14:25:40.191 Initializing steps cache with 4 steps
+14:45:07.509 Initializing concepts cache with 0 concepts
+14:45:07.510 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+14:45:07.510 Found 4 files
+14:45:07.510 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+14:45:07.511 Found 1 files
+14:45:07.511 Initializing specs cache with 2 specs
+14:45:07.511 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+14:45:07.511 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+14:45:08.696 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+14:45:08.696 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+14:45:08.701 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+14:45:08.701 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+14:45:08.701 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+14:45:08.701 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+14:45:08.751 Initializing steps cache with 5 steps
+14:45:10.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+14:45:10.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+14:45:10.565 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+14:45:10.565 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+14:45:10.565 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+14:45:10.565 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+14:45:10.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+14:45:10.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+14:45:10.648 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+14:45:10.649 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+14:45:10.649 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+14:45:10.649 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+20:35:49.509 Initializing concepts cache with 0 concepts
+20:35:49.510 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+20:35:49.511 Found 4 files
+20:35:49.511 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+20:35:49.511 Found 1 files
+20:35:49.511 Initializing specs cache with 2 specs
+20:35:49.511 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+20:35:49.511 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+20:35:50.900 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+20:35:50.900 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+20:35:50.903 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+20:35:50.903 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+20:35:50.904 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+20:35:50.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+20:35:50.944 Initializing steps cache with 5 steps
+20:35:52.937 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+20:35:52.937 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+20:35:52.943 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+20:35:52.943 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+20:35:52.943 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+20:35:52.943 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+20:35:53.028 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+20:35:53.028 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+20:35:53.033 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+20:35:53.034 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+20:35:53.034 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+20:35:53.034 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:07:34.029 Initializing concepts cache with 0 concepts
+12:07:34.030 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+12:07:34.030 Found 5 files
+12:07:34.031 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+12:07:34.031 Found 1 files
+12:07:34.031 Initializing specs cache with 3 specs
+12:07:34.031 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+12:07:34.031 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+12:07:34.031 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+12:07:35.361 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:07:35.361 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:07:35.366 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:07:35.366 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:07:35.367 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:07:35.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:07:35.367 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:07:35.367 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:07:35.408 Initializing steps cache with 8 steps
+12:16:36.198 Initializing concepts cache with 0 concepts
+12:16:36.198 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+12:16:36.198 Found 5 files
+12:16:36.198 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+12:16:36.198 Found 1 files
+12:16:36.199 Initializing specs cache with 3 specs
+12:16:36.199 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+12:16:36.199 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+12:16:36.199 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+12:16:37.686 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:16:37.686 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:16:37.691 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:16:37.691 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:16:37.691 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:16:37.692 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:16:37.692 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:16:37.692 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:16:37.739 Initializing steps cache with 8 steps
+12:16:40.123 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:16:40.124 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:16:40.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:16:40.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:16:40.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:16:40.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:16:40.130 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:16:40.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:16:40.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:16:40.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:16:40.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:16:40.316 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:16:40.323 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:16:40.323 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:16:40.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:16:40.324 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:16:40.419 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:16:40.419 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:16:40.431 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:16:40.431 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:16:40.431 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:16:40.431 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:16:40.432 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:16:40.432 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:26:40.329 Initializing concepts cache with 0 concepts
+12:26:40.330 Initializing specs cache with 3 specs
+12:26:40.330 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+12:26:40.330 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+12:26:40.330 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+12:26:40.330 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+12:26:40.331 Found 5 files
+12:26:40.331 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+12:26:40.331 Found 1 files
+12:26:41.612 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:26:41.613 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:26:41.617 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:26:41.618 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:26:41.618 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:26:41.618 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:26:41.618 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:26:41.619 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:26:41.669 Initializing steps cache with 8 steps
+12:26:44.242 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:26:44.242 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:26:44.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:26:44.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:26:44.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:26:44.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:26:44.249 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:26:44.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:26:44.249 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:26:44.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:26:44.255 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:26:44.255 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:26:44.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:26:44.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:26:44.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:26:44.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:26:44.316 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:26:44.316 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:26:44.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:26:44.324 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:26:44.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:26:44.324 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:26:44.325 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:26:44.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:28:56.297 Initializing concepts cache with 0 concepts
+12:28:56.298 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+12:28:56.298 Found 5 files
+12:28:56.298 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+12:28:56.298 Found 1 files
+12:28:56.298 Initializing specs cache with 3 specs
+12:28:56.298 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+12:28:56.298 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+12:28:56.298 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+12:28:57.506 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:28:57.506 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:28:57.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:28:57.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:28:57.510 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:28:57.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:28:57.510 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:28:57.510 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:28:57.553 Initializing steps cache with 8 steps
+12:29:00.055 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:29:00.056 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:29:00.062 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:29:00.062 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:29:00.062 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:29:00.062 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:29:00.063 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:29:00.063 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:29:00.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:29:00.092 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:29:00.098 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:29:00.098 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:29:00.098 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:29:00.098 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:29:00.098 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:29:00.099 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+12:29:00.156 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+12:29:00.156 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+12:29:00.162 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+12:29:00.162 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+12:29:00.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+12:29:00.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+12:29:00.163 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+12:29:00.163 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:32:33.550 Initializing concepts cache with 0 concepts
+13:32:33.551 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:32:33.551 Found 5 files
+13:32:33.551 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:32:33.551 Found 1 files
+13:32:33.552 Initializing specs cache with 3 specs
+13:32:33.552 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:32:33.552 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example.spec
+13:32:33.552 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/example2.spec
+13:32:34.942 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:32:34.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:32:34.947 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:32:34.947 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:32:34.947 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:32:34.947 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:32:34.948 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:32:34.948 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:32:34.999 Initializing steps cache with 8 steps
+13:32:37.365 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:32:37.366 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:32:37.371 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:32:37.371 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:32:37.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:32:37.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:32:37.372 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:32:37.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:32:37.382 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:32:37.382 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:32:37.391 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:32:37.392 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:32:37.392 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:32:37.392 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:32:37.392 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:32:37.392 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:32:37.587 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:32:37.587 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:32:37.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:32:37.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:32:37.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:32:37.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:32:37.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:32:37.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:37:36.775 Initializing concepts cache with 0 concepts
+13:37:36.776 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:37:36.776 Found 4 files
+13:37:36.776 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:37:36.776 Found 1 files
+13:37:36.776 Initializing specs cache with 2 specs
+13:37:36.776 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:37:36.776 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:37:38.124 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:37:38.124 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:37:38.128 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:37:38.128 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:37:38.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:37:38.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:37:38.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:37:38.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:37:38.172 Initializing steps cache with 7 steps
+13:37:39.983 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:37:39.983 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:37:39.986 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:37:39.986 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:37:39.987 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:37:39.987 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:37:39.987 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:37:39.987 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:37:40.104 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:37:40.104 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:37:40.108 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:37:40.108 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:37:40.108 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:37:40.108 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:37:40.109 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:37:40.109 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:39:14.402 Initializing concepts cache with 0 concepts
+13:39:14.402 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:39:14.402 Found 4 files
+13:39:14.403 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:39:14.403 Found 1 files
+13:39:14.403 Initializing specs cache with 2 specs
+13:39:14.403 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:39:14.403 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:39:15.565 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:39:15.565 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:39:15.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:39:15.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:39:15.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:39:15.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:39:15.570 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:39:15.570 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:39:15.613 Initializing steps cache with 7 steps
+13:39:17.383 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:39:17.383 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:39:17.387 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:39:17.387 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:39:17.387 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:39:17.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:39:17.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:39:17.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:39:17.473 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:39:17.474 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:39:17.478 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:39:17.478 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:39:17.479 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:39:17.479 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:39:17.479 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:39:17.479 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:45:40.912 Initializing concepts cache with 0 concepts
+13:45:40.912 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:45:40.912 Found 4 files
+13:45:40.912 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:45:40.912 Found 1 files
+13:45:40.913 Initializing specs cache with 2 specs
+13:45:40.913 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:45:40.913 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:45:42.209 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:45:42.209 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:45:42.213 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:45:42.213 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:45:42.214 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:45:42.214 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:45:42.214 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:45:42.214 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:45:42.258 Initializing steps cache with 7 steps
+13:45:44.258 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:45:44.258 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:45:44.264 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:45:44.264 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:45:44.264 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:45:44.264 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:45:44.265 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:45:44.265 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:45:44.270 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:45:44.270 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:45:44.276 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:45:44.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:45:44.277 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:45:44.277 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:45:44.277 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:45:44.277 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:49:57.088 Initializing concepts cache with 0 concepts
+13:49:57.088 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:49:57.088 Found 4 files
+13:49:57.089 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:49:57.089 Found 1 files
+13:49:57.089 Initializing specs cache with 2 specs
+13:49:57.089 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:49:57.089 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:49:58.313 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:49:58.314 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:49:58.318 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:49:58.318 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:49:58.318 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:49:58.318 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:49:58.318 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:49:58.318 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:49:58.363 Initializing steps cache with 7 steps
+13:50:00.397 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:50:00.398 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:50:00.406 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:50:00.406 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:50:00.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:50:00.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:50:00.409 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:50:00.409 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:50:00.482 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:50:00.482 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:50:00.488 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:50:00.488 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:50:00.489 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:50:00.489 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:50:00.489 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:50:00.489 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:50:59.336 Initializing concepts cache with 0 concepts
+13:50:59.337 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:50:59.337 Found 4 files
+13:50:59.337 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:50:59.337 Found 1 files
+13:50:59.338 Initializing specs cache with 2 specs
+13:50:59.338 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:50:59.338 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:51:00.488 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:51:00.488 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:51:00.491 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:51:00.491 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:51:00.492 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:51:00.492 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:51:00.492 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:51:00.492 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:51:00.533 Initializing steps cache with 7 steps
+13:51:02.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:51:02.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:51:02.310 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:51:02.310 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:51:02.311 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:51:02.311 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:51:02.311 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:51:02.311 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:51:02.348 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:51:02.348 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:51:02.358 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:51:02.358 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:51:02.358 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:51:02.358 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:51:02.359 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:51:02.359 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:53:03.092 Initializing concepts cache with 0 concepts
+13:53:03.092 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:53:03.092 Found 4 files
+13:53:03.092 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:53:03.092 Found 1 files
+13:53:03.093 Initializing specs cache with 2 specs
+13:53:03.093 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:53:03.093 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:53:04.274 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:53:04.275 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:53:04.278 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:53:04.278 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:53:04.278 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:53:04.278 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:53:04.279 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:53:04.279 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:53:04.321 Initializing steps cache with 7 steps
+13:53:06.092 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:53:06.093 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:53:06.096 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:53:06.096 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:53:06.097 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:53:06.097 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:53:06.097 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:53:06.097 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:53:06.202 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:53:06.202 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:53:06.208 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:53:06.208 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:53:06.209 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:53:06.209 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:53:06.209 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:53:06.209 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:55:29.705 Initializing concepts cache with 0 concepts
+13:55:29.705 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:55:29.705 Found 4 files
+13:55:29.706 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:55:29.706 Found 1 files
+13:55:29.706 Initializing specs cache with 2 specs
+13:55:29.706 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:55:29.706 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:55:30.903 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:55:30.904 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:55:30.908 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:55:30.908 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:55:30.909 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:55:30.909 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:55:30.909 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:55:30.909 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:55:30.956 Initializing steps cache with 7 steps
+13:55:32.740 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:55:32.741 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:55:32.747 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:55:32.747 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:55:32.747 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:55:32.747 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:55:32.748 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:55:32.748 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:55:32.794 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:55:32.794 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:55:32.802 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:55:32.802 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:55:32.802 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:55:32.803 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:55:32.803 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:55:32.803 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:56:26.111 Initializing concepts cache with 0 concepts
+13:56:26.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+13:56:26.111 Found 4 files
+13:56:26.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+13:56:26.111 Found 1 files
+13:56:26.112 Initializing specs cache with 2 specs
+13:56:26.112 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+13:56:26.112 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+13:56:27.423 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:56:27.423 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:56:27.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:56:27.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:56:27.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:56:27.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:56:27.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:56:27.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:56:27.470 Initializing steps cache with 7 steps
+13:56:29.402 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:56:29.402 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:56:29.406 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:56:29.406 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:56:29.407 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:56:29.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:56:29.407 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:56:29.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+13:56:29.422 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+13:56:29.423 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+13:56:29.428 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+13:56:29.428 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+13:56:29.429 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+13:56:29.429 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+13:56:29.430 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+13:56:29.430 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+15:01:30.426 Initializing concepts cache with 0 concepts
+15:01:30.427 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+15:01:30.427 Found 4 files
+15:01:30.427 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+15:01:30.427 Found 1 files
+15:01:30.428 Initializing specs cache with 2 specs
+15:01:30.428 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+15:01:30.428 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+15:01:31.989 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+15:01:31.989 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+15:01:31.992 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+15:01:31.992 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+15:01:31.993 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+15:01:31.993 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:01:31.993 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+15:01:31.993 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+15:01:32.031 Initializing steps cache with 7 steps
+15:24:56.579 Initializing concepts cache with 0 concepts
+15:24:56.579 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+15:24:56.579 Found 5 files
+15:24:56.579 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+15:24:56.579 Found 1 files
+15:24:56.580 Initializing specs cache with 3 specs
+15:24:56.580 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+15:24:56.580 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+15:24:56.580 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+15:24:58.127 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+15:24:58.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+15:24:58.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+15:24:58.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+15:24:58.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+15:24:58.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+15:24:58.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+15:24:58.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:24:58.132 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+15:24:58.132 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+15:24:58.179 Initializing steps cache with 11 steps
+15:58:25.261 Initializing concepts cache with 0 concepts
+15:58:25.262 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+15:58:25.262 Found 5 files
+15:58:25.262 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+15:58:25.262 Found 1 files
+15:58:25.264 Initializing specs cache with 3 specs
+15:58:25.264 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+15:58:25.264 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+15:58:25.264 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+15:58:26.913 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+15:58:26.913 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+15:58:26.917 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+15:58:26.917 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+15:58:26.917 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+15:58:26.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+15:58:26.918 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+15:58:26.918 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+15:58:26.919 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+15:58:26.919 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+15:58:26.961 Initializing steps cache with 11 steps
+16:16:24.028 Initializing concepts cache with 0 concepts
+16:16:24.028 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+16:16:24.028 Found 5 files
+16:16:24.029 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+16:16:24.029 Found 1 files
+16:16:24.030 Initializing specs cache with 3 specs
+16:16:24.030 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+16:16:24.030 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+16:16:24.030 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+16:16:25.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:16:25.603 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:16:25.605 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:16:25.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:16:25.606 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:16:25.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:16:25.606 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:16:25.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:16:25.607 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <wordsTable>" hasInlineTable:false > 
+16:16:25.607 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <wordsTable>" parameters:"wordsTable" > > 
+16:16:25.648 Initializing steps cache with 11 steps
+16:38:38.977 Initializing concepts cache with 0 concepts
+16:38:38.979 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+16:38:38.979 Found 5 files
+16:38:38.979 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+16:38:38.979 Found 1 files
+16:38:38.979 Initializing specs cache with 3 specs
+16:38:38.979 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+16:38:38.979 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+16:38:38.979 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+16:38:40.535 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:38:40.535 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:38:40.538 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:38:40.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:38:40.538 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+16:38:40.538 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+16:38:40.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:38:40.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:38:40.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:38:40.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:38:40.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+16:38:40.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+16:38:40.578 Initializing steps cache with 12 steps
+16:41:42.097 Initializing concepts cache with 0 concepts
+16:41:42.097 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+16:41:42.098 Found 5 files
+16:41:42.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+16:41:42.098 Found 1 files
+16:41:42.099 Initializing specs cache with 3 specs
+16:41:42.099 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+16:41:42.099 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+16:41:42.099 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+16:41:43.706 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:41:43.706 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:41:43.709 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:41:43.709 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:41:43.710 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+16:41:43.710 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+16:41:43.710 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:41:43.710 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:41:43.710 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:41:43.710 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:41:43.711 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+16:41:43.711 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+16:41:43.753 Initializing steps cache with 12 steps
+16:42:45.861 Initializing concepts cache with 0 concepts
+16:42:45.862 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+16:42:45.862 Found 5 files
+16:42:45.862 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+16:42:45.862 Found 1 files
+16:42:45.863 Initializing specs cache with 3 specs
+16:42:45.863 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+16:42:45.863 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+16:42:45.863 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+16:42:47.109 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:42:47.109 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:42:47.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:42:47.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:42:47.113 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+16:42:47.113 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+16:42:47.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:42:47.114 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:42:47.114 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:42:47.114 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:42:47.115 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+16:42:47.115 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+16:42:47.160 Initializing steps cache with 12 steps
+16:42:50.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:42:50.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:42:50.140 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:42:50.140 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:42:50.140 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+16:42:50.140 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+16:42:50.141 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:42:50.141 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:42:50.141 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:42:50.141 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:42:50.142 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+16:42:50.142 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+16:42:50.193 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:42:50.193 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:42:50.204 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:42:50.204 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:42:50.204 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+16:42:50.204 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+16:42:50.205 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:42:50.205 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:42:50.205 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:42:50.205 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:42:50.206 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+16:42:50.206 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+16:42:50.237 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+16:42:50.238 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+16:42:50.270 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+16:42:50.270 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+16:42:50.271 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+16:42:50.271 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+16:42:50.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+16:42:50.272 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+16:42:50.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" hasInlineTable:false > 
+16:42:50.272 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+16:42:50.273 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+16:42:50.273 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+09:29:48.174 Initializing concepts cache with 0 concepts
+09:29:48.175 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+09:29:48.175 Found 5 files
+09:29:48.176 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+09:29:48.176 Found 1 files
+09:29:48.176 Initializing specs cache with 3 specs
+09:29:48.176 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+09:29:48.176 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+09:29:48.176 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+09:29:49.585 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+09:29:49.585 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+09:29:49.588 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+09:29:49.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+09:29:49.588 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+09:29:49.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+09:29:49.589 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+09:29:49.589 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+09:29:49.589 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+09:29:49.589 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+09:29:49.627 Initializing steps cache with 11 steps
+18:34:47.259 Initializing concepts cache with 0 concepts
+18:34:47.259 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+18:34:47.260 Found 5 files
+18:34:47.260 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+18:34:47.260 Found 1 files
+18:34:47.261 Initializing specs cache with 3 specs
+18:34:47.261 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+18:34:47.261 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+18:34:47.261 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+18:34:48.380 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+18:34:48.380 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+18:34:48.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+18:34:48.384 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+18:34:48.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+18:34:48.384 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+18:34:48.384 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+18:34:48.384 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+18:34:48.385 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+18:34:48.385 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+18:34:48.423 Initializing steps cache with 11 steps
+18:34:50.586 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+18:34:50.586 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+18:34:50.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+18:34:50.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+18:34:50.594 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+18:34:50.594 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+18:34:50.600 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+18:34:50.600 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+18:34:50.601 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+18:34:50.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+18:34:50.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+18:34:50.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+18:34:50.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+18:34:50.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+18:34:50.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+18:34:50.602 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+18:34:50.603 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+18:34:50.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+18:34:50.604 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+18:34:50.604 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+18:34:50.654 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+18:34:50.654 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+18:34:50.660 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+18:34:50.660 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+18:34:50.661 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+18:34:50.661 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+18:34:50.661 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+18:34:50.661 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+18:34:50.661 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+18:34:50.662 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+19:25:50.795 Initializing concepts cache with 0 concepts
+19:25:50.795 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+19:25:50.795 Found 5 files
+19:25:50.795 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+19:25:50.795 Found 1 files
+19:25:50.796 Initializing specs cache with 3 specs
+19:25:50.796 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+19:25:50.796 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+19:25:50.796 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+19:25:52.320 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+19:25:52.320 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+19:25:52.323 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+19:25:52.323 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+19:25:52.324 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+19:25:52.324 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+19:25:52.325 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+19:25:52.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+19:25:52.325 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+19:25:52.325 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+19:25:52.371 Initializing steps cache with 11 steps
+19:27:39.508 Initializing concepts cache with 0 concepts
+19:27:39.508 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+19:27:39.508 Found 5 files
+19:27:39.508 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+19:27:39.508 Found 1 files
+19:27:39.509 Initializing specs cache with 3 specs
+19:27:39.509 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+19:27:39.509 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+19:27:39.509 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+19:27:40.554 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+19:27:40.554 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+19:27:40.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+19:27:40.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+19:27:40.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+19:27:40.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+19:27:40.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+19:27:40.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+19:27:40.559 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+19:27:40.559 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+19:27:40.599 Initializing steps cache with 11 steps
+20:55:55.447 Initializing concepts cache with 1 concepts
+20:55:55.447 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/footer.cpt
+20:55:55.449 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+20:55:55.449 Found 7 files
+20:55:55.449 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+20:55:55.449 Found 1 files
+20:55:55.449 Initializing specs cache with 4 specs
+20:55:55.449 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+20:55:55.449 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+20:55:55.449 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/4_ConceptFileUsage.spec
+20:55:55.449 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+20:55:56.874 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+20:55:56.874 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+20:55:56.878 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+20:55:56.878 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+20:55:56.878 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+20:55:56.878 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+20:55:56.878 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+20:55:56.878 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+20:55:56.879 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+20:55:56.879 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+20:55:56.915 Initializing steps cache with 14 steps
+20:58:27.962 Initializing concepts cache with 1 concepts
+20:58:27.962 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/footer.cpt
+20:58:27.963 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs
+20:58:27.963 Found 7 files
+20:58:27.963 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/logs
+20:58:27.963 Found 1 files
+20:58:27.964 Initializing specs cache with 4 specs
+20:58:27.964 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/1_SimpleParameter.spec
+20:58:27.964 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/2_TableParameter.spec
+20:58:27.964 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/3_SpecialParameter.spec
+20:58:27.964 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_t2/specs/4_ConceptFileUsage.spec
+20:58:29.300 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+20:58:29.300 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+20:58:29.303 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+20:58:29.303 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+20:58:29.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+20:58:29.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+20:58:29.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+20:58:29.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+20:58:29.304 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+20:58:29.304 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+20:58:29.341 Initializing steps cache with 14 steps
+22:44:11.461 Initializing concepts cache with 1 concepts
+22:44:11.461 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+22:44:11.461 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+22:44:11.461 Found 7 files
+22:44:11.461 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+22:44:11.461 Found 1 files
+22:44:11.462 Initializing specs cache with 4 specs
+22:44:11.462 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+22:44:11.462 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+22:44:11.462 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+22:44:11.462 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+22:44:12.639 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+22:44:12.639 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+22:44:12.642 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+22:44:12.643 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+22:44:12.643 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+22:44:12.643 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+22:44:12.643 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+22:44:12.643 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+22:44:12.644 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+22:44:12.644 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+22:44:12.684 Initializing steps cache with 14 steps
+22:46:43.531 Initializing concepts cache with 1 concepts
+22:46:43.531 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+22:46:43.532 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+22:46:43.532 Found 7 files
+22:46:43.532 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+22:46:43.532 Found 1 files
+22:46:43.533 Initializing specs cache with 4 specs
+22:46:43.533 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+22:46:43.533 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+22:46:43.533 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+22:46:43.533 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+22:46:44.620 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+22:46:44.620 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+22:46:44.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+22:46:44.624 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+22:46:44.624 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+22:46:44.624 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+22:46:44.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+22:46:44.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+22:46:44.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+22:46:44.625 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+22:46:44.667 Initializing steps cache with 14 steps
+23:29:31.858 Initializing concepts cache with 1 concepts
+23:29:31.858 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+23:29:31.858 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+23:29:31.858 Found 7 files
+23:29:31.858 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+23:29:31.858 Found 2 files
+23:29:31.860 Initializing specs cache with 4 specs
+23:29:31.860 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+23:29:31.861 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+23:29:31.861 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+23:29:31.861 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+23:29:33.657 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+23:29:33.658 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+23:29:33.664 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+23:29:33.664 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+23:29:33.664 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+23:29:33.664 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+23:29:33.665 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+23:29:33.665 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+23:29:33.665 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+23:29:33.665 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+23:29:33.734 Initializing steps cache with 15 steps
