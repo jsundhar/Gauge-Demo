@@ -1049,3 +1049,233 @@
 23:29:33.665 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
 23:29:33.665 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
 23:29:33.734 Initializing steps cache with 15 steps
+23:58:32.720 Initializing concepts cache with 1 concepts
+23:58:32.721 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+23:58:32.721 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+23:58:32.721 Found 8 files
+23:58:32.722 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git
+23:58:32.722 Found 9 files
+23:58:32.722 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/branches
+23:58:32.722 Found 0 files
+23:58:32.722 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/hooks
+23:58:32.722 Found 9 files
+23:58:32.722 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/info
+23:58:32.722 Found 1 files
+23:58:32.722 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects
+23:58:32.723 Found 4 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/08
+23:58:32.723 Found 1 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/ca
+23:58:32.723 Found 1 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/info
+23:58:32.723 Found 0 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/pack
+23:58:32.723 Found 0 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs
+23:58:32.723 Found 2 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/heads
+23:58:32.723 Found 0 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/tags
+23:58:32.723 Found 0 files
+23:58:32.723 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+23:58:32.723 Found 2 files
+23:58:32.725 Initializing specs cache with 4 specs
+23:58:32.725 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+23:58:32.725 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+23:58:32.725 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+23:58:32.725 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+23:58:34.001 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+23:58:34.001 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+23:58:34.004 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+23:58:34.004 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+23:58:34.005 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+23:58:34.005 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+23:58:34.006 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+23:58:34.006 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+23:58:34.006 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+23:58:34.006 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+23:58:34.052 Initializing steps cache with 15 steps
+23:59:48.109 Initializing concepts cache with 1 concepts
+23:59:48.110 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+23:59:48.110 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+23:59:48.111 Found 8 files
+23:59:48.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git
+23:59:48.111 Found 9 files
+23:59:48.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/branches
+23:59:48.111 Found 0 files
+23:59:48.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/hooks
+23:59:48.111 Found 9 files
+23:59:48.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/info
+23:59:48.111 Found 1 files
+23:59:48.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects
+23:59:48.111 Found 4 files
+23:59:48.111 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/08
+23:59:48.111 Found 1 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/ca
+23:59:48.112 Found 1 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/info
+23:59:48.112 Found 0 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/pack
+23:59:48.112 Found 0 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs
+23:59:48.112 Found 2 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/heads
+23:59:48.112 Found 0 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/tags
+23:59:48.112 Found 0 files
+23:59:48.112 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+23:59:48.112 Found 2 files
+23:59:48.113 Initializing specs cache with 4 specs
+23:59:48.113 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+23:59:48.113 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+23:59:48.113 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+23:59:48.113 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+23:59:49.402 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+23:59:49.402 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+23:59:49.406 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+23:59:49.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+23:59:49.407 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+23:59:49.407 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+23:59:49.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+23:59:49.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+23:59:49.408 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+23:59:49.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+23:59:49.461 Initializing steps cache with 15 steps
+00:01:19.591 Initializing concepts cache with 1 concepts
+00:01:19.591 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+00:01:19.592 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+00:01:19.592 Found 8 files
+00:01:19.592 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git
+00:01:19.592 Found 9 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/branches
+00:01:19.593 Found 0 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/hooks
+00:01:19.593 Found 9 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/info
+00:01:19.593 Found 1 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects
+00:01:19.593 Found 4 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/08
+00:01:19.593 Found 1 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/ca
+00:01:19.593 Found 1 files
+00:01:19.593 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/info
+00:01:19.593 Found 0 files
+00:01:19.594 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/pack
+00:01:19.594 Found 0 files
+00:01:19.594 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs
+00:01:19.594 Found 2 files
+00:01:19.594 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/heads
+00:01:19.594 Found 0 files
+00:01:19.594 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/tags
+00:01:19.594 Found 0 files
+00:01:19.594 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+00:01:19.594 Found 2 files
+00:01:19.596 Initializing specs cache with 4 specs
+00:01:19.596 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+00:01:19.596 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+00:01:19.596 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+00:01:19.596 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+00:01:21.587 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+00:01:21.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+00:01:21.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+00:01:21.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+00:01:21.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+00:01:21.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+00:01:21.593 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+00:01:21.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+00:01:21.595 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+00:01:21.595 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+00:01:21.662 Initializing steps cache with 15 steps
+00:02:04.095 Initializing concepts cache with 1 concepts
+00:02:04.095 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+00:02:04.097 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+00:02:04.097 Found 8 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git
+00:02:04.098 Found 9 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/branches
+00:02:04.098 Found 0 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/hooks
+00:02:04.098 Found 9 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/info
+00:02:04.098 Found 1 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects
+00:02:04.098 Found 4 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/08
+00:02:04.098 Found 1 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/ca
+00:02:04.098 Found 1 files
+00:02:04.098 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/info
+00:02:04.099 Found 0 files
+00:02:04.099 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/pack
+00:02:04.099 Found 0 files
+00:02:04.099 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs
+00:02:04.099 Found 2 files
+00:02:04.099 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/heads
+00:02:04.099 Found 0 files
+00:02:04.099 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/tags
+00:02:04.099 Found 0 files
+00:02:04.099 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+00:02:04.099 Found 2 files
+00:02:04.101 Initializing specs cache with 4 specs
+00:02:04.101 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+00:02:04.101 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+00:02:04.101 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+00:02:04.101 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+00:02:05.680 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+00:02:05.680 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+00:02:05.685 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+00:02:05.685 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+00:02:05.685 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+00:02:05.685 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+00:02:05.685 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+00:02:05.686 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+00:02:05.686 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+00:02:05.686 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+00:02:05.735 Initializing steps cache with 15 steps
+00:03:10.670 Initializing concepts cache with 1 concepts
+00:03:10.670 Adding concepts from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/footer.cpt
+00:03:10.671 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs
+00:03:10.671 Found 8 files
+00:03:10.671 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git
+00:03:10.671 Found 9 files
+00:03:10.671 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/branches
+00:03:10.671 Found 0 files
+00:03:10.671 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/hooks
+00:03:10.671 Found 9 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/info
+00:03:10.672 Found 1 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects
+00:03:10.672 Found 4 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/08
+00:03:10.672 Found 1 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/ca
+00:03:10.672 Found 1 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/info
+00:03:10.672 Found 0 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/objects/pack
+00:03:10.672 Found 0 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs
+00:03:10.672 Found 2 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/heads
+00:03:10.672 Found 0 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/.git/refs/tags
+00:03:10.672 Found 0 files
+00:03:10.672 Watching directory: /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/logs
+00:03:10.672 Found 2 files
+00:03:10.674 Initializing specs cache with 4 specs
+00:03:10.674 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/1_SimpleParameter.spec
+00:03:10.674 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/2_TableParameter.spec
+00:03:10.674 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/3_SpecialParameter.spec
+00:03:10.674 Adding specs from /Users/tpusjaga/Documents/workspace/Gauge_Demo/specs/4_ConceptFileUsage.spec
+00:03:12.231 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if <content> is visible" hasInlineTable:false > 
+00:03:12.231 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if {} is visible" parameterizedStepValue:"Check if <content> is visible" parameters:"content" > > 
+00:03:12.235 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are" hasInlineTable:false > 
+00:03:12.235 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are" parameterizedStepValue:"Vowels in English language are" > > 
+00:03:12.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check if link is visible <linksTable>" hasInlineTable:false > 
+00:03:12.236 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check if link is visible {}" parameterizedStepValue:"Check if link is visible <linksTable>" parameters:"linksTable" > > 
+00:03:12.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Navigate to <url>" hasInlineTable:false > 
+00:03:12.236 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Navigate to {}" parameterizedStepValue:"Navigate to <url>" parameters:"url" > > 
+00:03:12.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"check for the following footer links <linksTable>" hasInlineTable:false > 
+00:03:12.236 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"check for the following footer links {}" parameterizedStepValue:"check for the following footer links <linksTable>" parameters:"linksTable" > > 
+00:03:12.300 Initializing steps cache with 15 steps
